@@ -1,0 +1,5 @@
+com\mycompany\finaltest\server_received\Server.class
+com\mycompany\finaltest\server_received\Client$SendFileListener.class
+com\mycompany\finaltest\server_received\Client.class
+com\mycompany\finaltest\server_received\Client$SendMessageListener.class
+com\mycompany\finaltest\server_received\Server$ClientHandler.class
